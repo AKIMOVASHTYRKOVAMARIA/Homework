@@ -12,3 +12,5 @@ _italic_
 __italic__
 
 __Ich habe *einen* Kater__
+
+~~зачеркнуть~~
