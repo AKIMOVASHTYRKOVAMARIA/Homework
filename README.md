@@ -30,4 +30,4 @@ __Ich habe *einen* Kater__
  
  
  hse.ru 
- [HSE](https://www..hse.ru/"мой университет")
+ [HSE](https://www..hse.ru/ "мой университет")
