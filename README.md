@@ -28,6 +28,5 @@ __Ich habe *einen* Kater__
  - unordered
  - unordered
  
- 
- hse.ru 
+  
  [HSE](https://www..hse.ru/ "мой университет")
